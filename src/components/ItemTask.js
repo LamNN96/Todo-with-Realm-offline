@@ -20,7 +20,6 @@ export default class ItemTask extends PureComponent {
   };
 
   onChange = () => {
-    console.log("change");
   };
 
   onValueChange = () => {
